@@ -1,0 +1,5 @@
+﻿<configuration>
+  <system.web>
+    <compilation controlBuilderInterceptorType="ViewStateCompressor.ViewStateCompressorControlBuilderInterceptor, ViewStateCompressor" />
+  </system.web>
+</configuration>
